@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cerise">#D92E9A</color>
+    <color name="amaranth">#F02655</color>
+    <color name="tall_poppy">#B7322A</color>
+    <color name="roman">#DF625A</color>
+    <color name="apple_blossom">#AA4F4A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

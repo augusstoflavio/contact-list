@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Augusto Flávio Mendonça"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/tv_telephone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="(79) 9 9858-3412"
+        android:textSize="15sp"
+        android:layout_marginTop="6dp"/>
+
+    <TextView
+        android:id="@+id/tv_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="augusto.flaviom@gmail.com"
+        android:textSize="15sp"
+        android:layout_marginTop="6dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/cardview_dark_background"
+        android:layout_marginTop="6dp"/>
+</LinearLayout>

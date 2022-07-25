@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Explanation</string>
+    <string name="empty_msg">Nenhum contato</string>
+    <string name="empty_search_msg">Nenhum contato encontrado para o filtro \'%1$s\'</string>
+    <string name="search">Search</string>
+</resources>
